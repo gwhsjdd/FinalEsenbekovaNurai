@@ -26,3 +26,16 @@ Task 2️⃣: Recreate the graph as in the picture. Leave a link to the reposito
 Task 3️⃣: Rebase branch two to branch one and merge three to one. Show the process in screenshots
 
 Task 4️⃣: Answer the question in commit question.
+
+
+Difference between switch and checkout
+git checkout: Used for switching branches and restoring files. Versatile but can be confusing.
+git switch: Specifically for switching branches, introduced for clarity.
+2. What does git merge do?
+git merge: Combines changes from one branch into another, creating a merge commit if branches have diverged. Conflicts must be resolved manually if they exist.
+3. What happens to the commit history after rebase?
+Rebase: Moves a branch to a new base, rewriting commit history to create new commits. Results in a linear history, but alters commit hashes, so use cautiously on shared branches.
+4. How to identify local vs. remote branches?
+Local branches: List with git branch.
+Remote branches: List with git branch -r.
+Both: List with git branch -a. Remote branches typically start with origin/.
