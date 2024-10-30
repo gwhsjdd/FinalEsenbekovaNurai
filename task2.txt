@@ -1,3 +1,2 @@
-main1
-change1
-git@g
+https://github.com/gwhsjdd/imageexam.git
+git@github.com:gwhsjdd/imageexam.git
