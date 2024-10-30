@@ -28,11 +28,11 @@ Task 4️⃣: Answer the questions in commit questions
 Task 5️⃣: Create a new branch called “dev-feature” from the branch "main" and add at least one commit.
 
 Task 6️⃣: Delete branches “two” and “three” after merging them with the main branch. Make a screenshot of the result.
-
+![alt text](Снимок-1.PNG)
 Task 7️⃣: Resolve merge conflicts that will occur when merging “feature” back into “one”, and add a screenshot of the conflict resolution.
-
+[text](<../../Новая папка>)
 Task 8️⃣: Rename branches "two" and "three" to "backup-two" and "backup-three," respectively, and take a screenshot showing the renamed branches.
-
+![alt text](Снимок.PNG)
 Task 9️⃣: Document the execution of each task in a README file and attach all screenshots and files.
 
 Task 🔟: Create a pull request to merge the “feature” branch with the “main” branch and add a description of the changes. Take a screenshot of the created pull request.
